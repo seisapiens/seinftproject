@@ -1,0 +1,22 @@
+{
+    "name":"Sei Sapiens",
+    "description":"Collection of 555 most adorable Sapiens comming on SEI.",
+    "website":"",
+    "twitter":"https://twitter.com/SeiSapiens",
+    "discord":"https://discord.com/invite/seisapiens",
+    "rpc":"https://sei-rpc.brocha.in/",
+    "network":"pacific-1", 
+    "collection_address":"sei1xr2uchxp74ym80lxw70vg8me93u4um4vr0dlz6gy69m9up3spddqljvyk8", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
