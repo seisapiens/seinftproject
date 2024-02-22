@@ -1,22 +1,65 @@
 {
-    "name":"Sei Sapiens",
-    "description":"Collection of 555 most adorable Sapiens comming on SEI.",
-    "website":"",
-    "twitter":"https://twitter.com/SeiSapiens",
-    "discord":"https://discord.com/invite/seisapiens",
-    "rpc":"https://sei-rpc.brocha.in/",
-    "network":"pacific-1", 
-    "collection_address":"sei1xr2uchxp74ym80lxw70vg8me93u4um4vr0dlz6gy69m9up3spddqljvyk8", 
-    "nft_name_type": "default",
-    "groups":[
+    "mnemonic": "step hidden order cross salad nephew tissue foot public street desk elite",
+    "rpc": "https://sei-rpc.brocha.in/",
+    "network": "pacific-1",
+    "name": "Sei Sapiens",
+    "symbol": "SAPIENS",
+    "description": "Collection of 555 most adorable Sapiens comming on SEI",
+    "supply": 555,
+    "token_uri": "https://arweave.net/d_n4w6ZlddWGHlh780EqNFz61T3JWxbZwEUeNh8SfnY",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+
         {
-            "name":"whitelist",
-            "allowlist":[
-                "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj"
-            ] 
+            "name": "OG",
+            "merkle_root": null,
+            "max_tokens": 1,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "0",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-20T11:06:02Z",
+            "end_time": null
+        }, 
+
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 1,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "0",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-20T11:06:02Z",
+            "end_time": null
         },
+
         {
-            "name":"public"
+            "name": "whitelist",
+            "merkle_root": "90f0487aa27f11b82a34b46b61bd8325c7528a4cf08e02c5dcb939d0a7344460",
+            "max_tokens": 2,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-22T10:06:02Z",
+            "end_time": null
         }
+
     ]
 }
